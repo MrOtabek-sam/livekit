@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LiveKit Assistant
 
 First, create a virtual environment, update pip, and install the required packages:
@@ -27,3 +28,7 @@ $ python3 assistant.py start
 ```
 
 Finally, you can load the [hosted playground](https://agents-playground.livekit.io/) and connect it.
+=======
+# livekit
+My Project
+>>>>>>> 68853a6ec7aab0d07cc7c43f2cd3b5e057b43d15
